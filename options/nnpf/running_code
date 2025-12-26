@@ -1,0 +1,1 @@
+python TRAIN_psnr_16bit.py --opt ./options/nnpf/train_middleversion_nnpf_22.json

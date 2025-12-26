@@ -1,0 +1,1 @@
+python TRAIN_ORG_PSNR.py --opt ./options/denoise_realworld/train_PROPOSED_denoise_abl4_remove_mfb_reverse_9x9_realworld.json

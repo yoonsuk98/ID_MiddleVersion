@@ -1,0 +1,3 @@
+python TRAIN_ORG_PSNR.py --opt ./options/denoise/train_abl4_remove_mfb_reverse_9x9_denoise_15.json
+python TRAIN_ORG_PSNR.py --opt ./options/denoise/train_abl4_remove_mfb_reverse_9x9_denoise_25.json
+python TRAIN_ORG_PSNR.py --opt ./options/denoise/train_abl4_remove_mfb_reverse_9x9_denoise_50.json
