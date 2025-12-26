@@ -13,7 +13,6 @@ Intelligent Visual Computing Laboratory (IVCL), South Korea
 
 <p align=center><img width="80%" src="figs\fig1.png"/></p>
 
-<p align=center>Proposed image denoising network using Quaternion Transformer (QformerID).</p>
 
 
 ### Quick start
